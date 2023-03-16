@@ -9,4 +9,9 @@
 a link:
  - 이미지 테스트: <a href='test.md'>test.md</a>
 
+
+1. URL : https://github.com/kim-sehui/python-daily-lecture/edit/main/README.md
+2. [URL](https://github.com/kim-sehui/python-daily-lecture/edit/main/README.md)
+
+
 # day2
